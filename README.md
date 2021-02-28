@@ -8,7 +8,7 @@ This project attempts to use a classic DRL algorithm, i.e. DQN to finish tool pa
 * The trained strategies are finally tested and evaluated.
 ## Usage
 * To train or test the neural networks in scenarios in different size, some parameters need to be modified in the scripts.
-* A simple GUI system may be added in future releases.
+* A simple GUI system may be added in future versions.
 ## Demonstration
 <div align=center><img src="https://github.com/Maximilian92/T01-Tool-path-planning-on-3-axis-milling-machine-using-DRL/blob/master/image/RL1%20tested%20in%20Te1%20-%20100%25%20-%200.gif"></div>
 <div align=center><img src="https://github.com/Maximilian92/T01-Tool-path-planning-on-3-axis-milling-machine-using-DRL/blob/master/image/RL1%20tested%20in%20Te2%20-%20100%25%20-%200.gif"></div>
