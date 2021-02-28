@@ -13,4 +13,4 @@ This project attempts to use a classic DRL algorithm, i.e. DQN to finish tool pa
 <div align=center><img src="https://github.com/Maximilian92/T01-Tool-path-planning-on-3-axis-milling-machine-using-DRL/blob/master/image/RL1%20tested%20in%20Te1%20-%20100%25%20-%200.gif"></div>
 <div align=center><img src="https://github.com/Maximilian92/T01-Tool-path-planning-on-3-axis-milling-machine-using-DRL/blob/master/image/RL1%20tested%20in%20Te2%20-%20100%25%20-%200.gif"></div>
 <div align=center><img src="https://github.com/Maximilian92/T01-Tool-path-planning-on-3-axis-milling-machine-using-DRL/blob/master/image/RL1%20tested%20in%20Te3%20-%20100%25%20-%200.gif"></div>
-According to the demos, the well trained processing strategies will have good performance as well as generalization ability. 
+According to the demos, the well trained processing strategies will have good performance and generalization ability. 
