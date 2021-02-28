@@ -6,7 +6,7 @@ This project attempts to use a classic DRL algorithm, i.e. DQN to finish tool pa
 * The 3d-arrays which take geometric information of original models are then used to built up the simulation scenario.
 * DQN algorithm is then used to train the agent (cutter) to interact with the environment (workspace on the machine tool) and finish the task (processing of the material).
 * The trained strategies are finally tested and evaluated.
-## Tips
+## Usage
 * To train or test the neural networks in scenarios in different size, some parameters need to be modified in the scripts.
 * A simple GUI system may be added in future releases.
 ## Demonstration
